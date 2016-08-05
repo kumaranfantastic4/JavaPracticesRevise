@@ -1,0 +1,2 @@
+# JavaPracticesRevise
+Java Coding sample
